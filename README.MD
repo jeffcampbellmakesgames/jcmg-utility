@@ -1,6 +1,6 @@
 [![Continous Deployment](https://github.com/jeffcampbellmakesgames/jcmg-utility/actions/workflows/publish_release.yml/badge.svg)](https://github.com/jeffcampbellmakesgames/jcmg-utility/actions/workflows/publish_release.yml)
-<img src="https://img.shields.io/npm/v/com.jeffcampbellmakesgames.jcmg-utility?label=openupm&amp;registry_uri=https://package.openupm.com" /></a>
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/jeffcampbellmakesgames/jcmg-utility?style=flat-square">[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![openupm](https://img.shields.io/npm/v/com.jeffcampbellmakesgames.jcmg-utility?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.jeffcampbellmakesgames.jcmg-utility/)
+![GitHub issues](https://img.shields.io/github/issues/jeffcampbellmakesgames/jcmg-utility)
 [![Twitter Follow](https://img.shields.io/badge/twitter-%40stampyturtle-blue.svg?style=flat&label=Follow)](https://twitter.com/stampyturtle)
 
 # JCMG Utility
