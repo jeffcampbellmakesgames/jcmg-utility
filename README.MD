@@ -1,5 +1,5 @@
 [![Continous Deployment](https://github.com/jeffcampbellmakesgames/jcmg-utility/actions/workflows/publish_release.yml/badge.svg)](https://github.com/jeffcampbellmakesgames/jcmg-utility/actions/workflows/publish_release.yml)
-[![openupm](https://img.shields.io/npm/v/com.jeffcampbellmakesgames.jcmg-utility?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.jeffcampbellmakesgames.jcmg-utility/)
+[![openupm](https://img.shields.io/npm/v/com.jeffcampbellmakesgames.utility?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.jeffcampbellmakesgames.utility/)
 ![GitHub issues](https://img.shields.io/github/issues/jeffcampbellmakesgames/jcmg-utility)
 [![Twitter Follow](https://img.shields.io/badge/twitter-%40stampyturtle-blue.svg?style=flat&label=Follow)](https://twitter.com/stampyturtle)
 
