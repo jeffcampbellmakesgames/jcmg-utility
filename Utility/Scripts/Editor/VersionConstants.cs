@@ -8,7 +8,7 @@ namespace JCMG.Utility.Editor
         /// <summary>
         /// The semantic version
         /// </summary>
-        public const string VERSION = "0.1.0";
+        public const string VERSION = "0.1.1";
 
         /// <summary>
         /// The branch of GIT this package was published from.
@@ -23,11 +23,11 @@ namespace JCMG.Utility.Editor
         /// <summary>
         /// The UTC human-readable date this package was published at.
         /// </summary>
-        public const string PUBLISH_DATE = "Friday, 02 December 2022";
+        public const string PUBLISH_DATE = "Saturday, 03 December 2022";
 
         /// <summary>
         /// The UTC time this package was published at.
         /// </summary>
-        public const string PUBLISH_TIME = "12/02/2022 14:42:12";
+        public const string PUBLISH_TIME = "12/03/2022 01:28:55";
     }
 }
