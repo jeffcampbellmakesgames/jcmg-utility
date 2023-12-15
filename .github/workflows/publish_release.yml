@@ -7,6 +7,7 @@ on:
     paths:
     - '.github/workflows/publish_release.yml'
     - 'Unity/Assets/JCMG/Utility/Scripts/**/*.cs'
+    - 'Unity/Assets/PackageManifests/PackageManifestConfig.asset'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
