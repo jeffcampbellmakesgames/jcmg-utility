@@ -20,14 +20,16 @@ MonoBehaviour:
   packageName: com.jeffcampbellmakesgames.utility
   displayName: JCMG Utility
   packageVersion: 0.1.2
-  unityVersion: 2021.3.14f1
+  unityVersion: 2021.3
   description: A utility library for Unity
   category: Utility
   author:
     name: Jeff Campbell
     email: mirraraenn@gmail.com
     url: https://jeffcampbellmakes.games
-  keywords: []
+  keywords:
+  - utility
+  - extensions
   dependencies: []
   versionConstantsPath: Assets/JCMG/Utility/Scripts/Editor
   versionTemplateGuid: 29478dddd5aa744f0b35db8f65aae011
